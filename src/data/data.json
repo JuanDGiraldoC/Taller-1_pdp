@@ -1,0 +1,32 @@
+[{
+    "Id" :  "1u",
+    "Nombre" :  "Nike Dunk High Retro",
+    "Precio" :  120,
+    "Cantidad_disponible" :  5,
+    "Descripcion" : "Really good nike shoes",
+    "url_imagen" : "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/5e7687f1-c13e-4bac-8ffa-a6f863ae9157/dunk-high-retro-zapatillas-PN8S8F.png"
+}, 
+{
+    "Id" :  "2u",
+    "Nombre" :  "Nike Zoom Fly 5",
+    "Precio" :  150,
+    "Cantidad_disponible" :  3,
+    "Descripcion" : "good Nike shoes",
+    "url_imagen" : "https://prochampions.vtexassets.com/arquivos/ids/635076/Nike-Zoom-Fly-5-Tenis_DM8968-001_02.jpg?v=638073999209330000"
+},
+{
+    "Id" :  "3u",
+    "Nombre" :  "Nike Streetgato",
+    "Precio" :  180,
+    "Cantidad_disponible" :  2,
+    "Descripcion" : "Really nike shoes",
+    "url_imagen" : "https://cf.shopee.com.co/file/2de2f429c4bb01d7417757d2f922c7e2"
+},
+{
+    "Id" :  "4u",
+    "Nombre" :  "Zoom Freak 4",
+    "Precio" :  150,
+    "Cantidad_disponible" :  3,
+    "Descripcion" : "Really good nike shoes",
+    "url_imagen" : "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/c2385058-3695-49e5-a1d2-109dde63617f/calzado-de-básquetbol-zoom-freak-4-asw-tNKpVx.png"
+}]

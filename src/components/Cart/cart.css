@@ -1,0 +1,39 @@
+.minicart {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: white;
+    color: black;
+    height: 100vh;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    z-index: 3;
+}
+
+.minicart_close{
+    position: absolute;
+    top: 0;
+    left: 0.5em;
+    cursor: pointer;
+}
+
+.product_info_cantidad{
+    size: 4em;
+}
+
+.button_cart {
+    position: fixed;
+    bottom: 1em;
+    right: 1em;
+    z-index: 1;
+}
+
+li{
+    display: flex;
+}
+
+li > img{
+    width: 180px;
+    height: 180px;
+}

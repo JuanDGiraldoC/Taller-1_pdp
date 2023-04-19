@@ -1,0 +1,13 @@
+.container{
+   width: 95%;
+   margin: auto; 
+}
+
+.container .product_count{
+    margin: 1em;
+}
+
+.productList {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
